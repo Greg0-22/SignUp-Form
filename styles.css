@@ -1,0 +1,4 @@
+body {
+    display: flex; 
+    /* this might need to be only on certain elements. */
+}
