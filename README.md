@@ -28,3 +28,11 @@ initial commit: set up html and css files with bare minimum & saved README
 4) form fields added
 5) form validation added
 6) final styling or clean up (check functionality again.)
+
+
+Commit #1 07/09:
+I spent quite a while figuring out the best way to display an image on a sidebar. I found many different ways that worked for different kinds of images. Because I didn't decide on a certain theme for this website, and it's mostly about the form and overall composition, I took the easiest route: putting an image as the background for a div and choosing an image that looks acceptable at any dimensions.
+
+I took a break, came back and added the html and a bit of css just so I could see all the elements I added and get an idea for how things will need to be styled.
+
+I think technically skipped commits 1-3 because they happened simulanteously and there was less html/css to do than expected. First commit starts at step 3. I will go straight to adding the form validation then tackle the css tomorrow since that will honestly be the bulk of this project.

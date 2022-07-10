@@ -1,4 +1,28 @@
 body {
     display: flex; 
+    flex-direction: column;
+    margin: 0;
     /* this might need to be only on certain elements. */
 }
+
+
+.image-container {
+    height: 100vh;
+    width: 40vw;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    background-image: url("image.jpg");
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 45vw;
+}
+/* .logo-container {
+    background-color: lightgrey;
+    opacity: 50%;
+} */
