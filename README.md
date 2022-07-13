@@ -39,3 +39,6 @@ I think I technically skipped commits 1-3 because they happened simulanteously a
 
 Commit #2 07/09:
 Added validation to the form. It's getting late, so I will finish this tomorrow. All I see left is styling with css and maybe using javascript to compare the passwords. I could also have colors change if the input is valid/invalid and add a password checklist so the 'user' knows what the password requirements are before inputting. The next commit will be after the css styling is majorly done. So far, this is a pretty easy project it is reminding me of the fundamentals.
+
+Commit #3 07/12:
+Had time to wrap this up. Commit for completing most of the CSS styling. The submit button area and the form still need some styling and functionality in the form. At the end, I may change the background and logo just to add a better look.
