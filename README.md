@@ -42,3 +42,8 @@ Added validation to the form. It's getting late, so I will finish this tomorrow.
 
 Commit #3 07/12:
 Had time to wrap this up. Commit for completing most of the CSS styling. The submit button area and the form still need some styling and functionality in the form. At the end, I may change the background and logo just to add a better look.
+
+Commit #4 07/12: 
+Project and styling is completed. For extra, I could compare the passwords and have the color change if the comparison is wrong. However, this project was mostly for HTML & CSS, so I will move onto the next project.
+
+Completed Date: 07/12 - estimated time taken: ~8 hours
